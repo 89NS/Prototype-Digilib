@@ -1,2 +1,2 @@
 # Prototype-Digilib
-Desain UI/UX Aplikasi Digilib
+Desain prototype Aplikasi Digilib
